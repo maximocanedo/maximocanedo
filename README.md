@@ -1,17 +1,16 @@
-# Máximo Canedo
-Soy un programador en formación actualmente estudiante de la Universidad Tecnológica Nacional, con conocimientos en una variedad de lenguajes de programación, entre ellos JavaScript, PHP, C++, y C#. Este espacio es donde comparto algunos de los proyectos en los que he trabajado.
-
-## Proyectos Destacados
-La Colectiva: Aplicación web que brinda horarios de las lanchas colectivas en el Delta de Tigre. [Repositorio privado (Por el momento)]
-## Habilidades
-JavaScript
-PHP
-SQL
-C++
-C#
-WinForms
-HTML
-CSS
-## Contacto
-Si tienes alguna pregunta o comentario, por favor no dudes en contactarme vía correo electrónico a maximotomascanedo@gmail.com o a través de mi perfil de LinkedIn en https://www.linkedin.com/in/maximo-canedo/. 
-Muchas gracias por visitar mis repositorios de GitHub.
+## Summary
+I am an aspiring programmer currently enrolled as a student at the Universidad Tecnológica Nacional. I possess knowledge in a variety of programming languages including JavaScript, PHP, C++, and C#. This space is where I share some of the projects that I have worked on.
+## Featured Projects
+La Colectiva: A web application that provides schedules for the collective boats in the Delta de Tigre. [Private repository (For the time being)]
+## Skills
+ - JavaScript
+ - PHP
+ - SQL Server
+ - mySQL
+ - C++
+ - C#
+ - WinForms
+ - HTML
+ - CSS
+## Contact
+If you have any questions or comments, please do not hesitate to contact me via email at maximotomascanedo@gmail.com or through my LinkedIn profile at https://www.linkedin.com/in/maximo-canedo/. Thank you very much for visiting my GitHub repositories.
