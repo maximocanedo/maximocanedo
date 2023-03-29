@@ -1,4 +1,3 @@
-## Summary
 I am an aspiring programmer currently enrolled as a student at the Universidad Tecnológica Nacional. I possess knowledge in a variety of programming languages including JavaScript, PHP, C++, and C#. This space is where I share some of the projects that I have worked on.
 ## Featured Projects
 La Colectiva: A web application that provides schedules for the "bus boats" in the Delta de Tigre. [Private repository (For the time being)]
